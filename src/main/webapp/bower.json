@@ -1,0 +1,21 @@
+{
+  "name": "webapp",
+  "authors": [
+    "tomas.jakoubek <tomas.jakoubek@artin.cz>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rest": "~1"
+  }
+}
